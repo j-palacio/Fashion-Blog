@@ -1,4 +1,3 @@
-
 # Fashion Blog
 Welcome to the Fashion Blog project! This is a simple HTML project designed to create the underlying structure for a fashion blog. Your friend Isa, a budding fashion blogger, has requested your help to build her a new website just in time for New York Fashion Week. The project includes incorporating HTML elements like images, links, lists, and more to make the blog visually appealing and engaging.
 
@@ -54,17 +53,16 @@ Copy code
 
 ## Instructions
 
-Profile Image Link: 
-The profile image at the top of the page is linked to the contact section. Clicking on the image will take the user directly to the contact information.
+**Profile Image Link**: The profile image at the top of the page is linked to the contact section. Clicking on the image will take the user directly to the contact information.
 
-Blog Post Information: The blog post includes details such as the author's name and the posting date.
+**Blog Post Information**: The blog post includes details such as the author's name and the posting date.
 
-Main Blog Image: A captivating image related to the blog post content is displayed prominently.
+**Main Blog Image**: A captivating image related to the blog post content is displayed prominently.
 
-Blog Post Content: The main content of the blog post provides information about NYFW and offers tips and tricks for a pleasurable experience.
+**Blog Post Content**: The main content of the blog post provides information about NYFW and offers tips and tricks for a pleasurable experience.
 
-Subheadings and Images: Additional sections with subheadings and images provide more detailed information about getting tickets and picking shows.
+**Subheadings and Images**: Additional sections with subheadings and images provide more detailed information about getting tickets and picking shows.
 
-Related Content List: A list of related content is included at the end, providing links to other blog posts.
+**Related Content List**: A list of related content is included at the end, providing links to other blog posts.
 
-Contact Information: The contact section at the end includes Isa's email, phone number, and address.
+**Contact Information**: The contact section at the end includes Isa's email, phone number, and address.
